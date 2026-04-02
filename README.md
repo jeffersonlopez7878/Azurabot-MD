@@ -6,16 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jonathanggg">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&size=26&center=true&vCenter=true&width=500&lines=✨+Mita+Bot+MD;⚡+Powering+Your+WhatsApp+Experience;🌟+Deja+Tu+Estrella+En+El+Repo" alt="Header Typing SVG">
+  <a href="https://github.com/jeffersonlopez7878/Azurabot-MD">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&size=26&center=true&vCenter=true&width=500&lines=✨+Azura+Bot+MD;⚡+Powering+Your+WhatsApp+Experience;🌟+Deja+Tu+Estrella+En+El+Repo" alt="Header Typing SVG">
   </a>
 </p>
 
-> **🚀 Creado por JonathanG and Mancos y Asociados| 🔥 Deja tu estrellita en el repositorio  | 💜 Cuidate**
+> **🚀 Creado por Moisés and Mancos y Asociados| 🔥 Deja tu estrellita en el repositorio  | 💜 Cuidate**
 
 ---
 
-# <p align="center"><img src="https://files.catbox.moe/1d1nyg.jpg" width="400" height="400" alt="MITA"/></p>
+# <p align="center"><img src="https://i.postimg.cc/R0Kr8svy/images.jpg" width="400" height="400" alt="Azura"/></p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="width: 100%;">
