@@ -75,7 +75,7 @@
 
 - **Dashboard:** [`Dash`](https://dash.swallox.com)
 - **Panel:** [`Aquí`](https://panel.swallox.com)
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Vb6I6zTEQIanas9U0N2I)
+- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VbCs5NH0Qeaf4NIwGg3T)
 
 </details>
 
@@ -88,13 +88,13 @@
   
 ```
 ╭━━━━━━━━━━━━╮
-┃     MITA BOT      ┃
+┃     Azura BOT      ┃
 ╰━━━━━━━━━━━━╯
 ```
 </div>
 
 <p align="center">
-<img src="https://files.catbox.moe/o3gtwe.jpg" width="400" height="400" alt="JonathanG"/>
+<img src="https://i.postimg.cc/R0Kr8svy/images.jpg" width="400" height="400" alt="MoisesG"/>
 <br>
-<strong>JonathanG</strong>
+<strong>MoisésG</strong>
 </p>
