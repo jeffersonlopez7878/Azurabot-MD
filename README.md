@@ -1,5 +1,5 @@
 
-# 🌟 Mita Bot MD 🌟
+# 🌟 AZURA Bot MD 🌟
 
 <p align="center">
   <img src="https://files.catbox.moe/uomr24.jpg" alt="MitaBot MD Logo" width="600"/>
