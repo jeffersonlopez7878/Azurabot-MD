@@ -17,46 +17,46 @@ global.botNumber = '' //Ejemplo: 5732000000
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [ 
-   ['50584887870', '🜲 JonathanG 🜲', true], 
+   ['+593998391403', '🜲 Moisés Gómez 🜲', true], 
    ['51901930696', 'Angelithoxz', true], 
    ['56940429343', 'ABRAHAN-M',true], 
    [''], 
    [''] 
  ];
 global.mods = []
-global.suittag = ["50584887870"]
+global.suittag = ["+593998391403"]
 global.prems = [""]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.vs = '1.0.0'
-global.nameqr = 'MitaBot-MD'
-global.namebot = 'MitaBot'
+global.nameqr = 'AzuraBot-MD'
+global.namebot = 'AzuraBot'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.mitaJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ MitaBot ✰⪜'
-global.botname = 'MitaBot-MD'
+global.packname = '⪛✰ AzuraBot ✰⪜'
+global.botname = 'AzuraBot-MD'
 global.wm = ''
-global.author = 'Made With By JonathanG'
-global.dev = 'Made With By JonathanG'
-global.textbot =  'Mitabot • Made With By JonathanG'
-global.etiqueta = 'JonathanG'
+global.author = 'Made With By Moisés Gómez'
+global.dev = 'Made With By Moisés Gómez'
+global.textbot =  'Azurabot • Made With By JonathanG'
+global.etiqueta = 'Moises Gómez'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = 'Mita Coins'
+global.moneda = 'Azura Coins'
 global.welcom1 = '☟︎︎︎ Edita Con El Comando setwelcome'
 global.welcom2 = '☟︎︎︎ Edita Con El Comando setbye'
-global.banner = 'https://files.catbox.moe/xr1spw.jpg'
+global.banner = 'https://i.postimg.cc/R0Kr8svy/images.jpg'
 global.avatar = 'https://tinyurl.com/258ghupn'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.cn ='https://whatsapp.com/channel/0029VbAt0n3It5rv4WOUcH00';
+global.cn ='https://whatsapp.com/channel/0029VbCs5NH0Qeaf4NIwGg3T';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
