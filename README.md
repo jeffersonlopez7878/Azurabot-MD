@@ -2,7 +2,7 @@
 # 🌟 AZURA Bot MD 🌟
 
 <p align="center">
-  <img src="https://files.catbox.moe/uomr24.jpg" alt="MitaBot MD Logo" width="600"/>
+  <img src="https://i.postimg.cc/R0Kr8svy/images.jpg" alt="Azurabot-MD Logo" width="600"/>
 </p>
 
 <p align="center">
